@@ -1,0 +1,10 @@
+.card {
+    margin: auto;
+    width: 85%;
+    margin-bottom: 2rem;
+}
+
+.card Button {
+    margin-left: 2rem;
+    float: right;
+}
